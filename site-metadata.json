@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Wise4Web",
-        "tagline": "Using the ",
+        "tagline": "Using the Web Wisely",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
