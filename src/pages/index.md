@@ -6,8 +6,9 @@ sections:
     title: Wise4Web
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hi. I am Bob and this is my new blog, Wise4Web. I plan to write about
+      using a variety of web technologies, mangeing information, note-taking
+      systems, and contentent management systems.
   - type: section_content
     title: About
     section_id: about
