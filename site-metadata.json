@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Wise4Web",
-        "tagline": "Header Tagline",
+        "tagline": "Using the ",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
