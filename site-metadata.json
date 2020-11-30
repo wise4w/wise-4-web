@@ -92,7 +92,7 @@
         "links": [
             {
                 "type": "action",
-                "label": "Made with Stackbit.",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "style": "link",
                 "new_window": true
