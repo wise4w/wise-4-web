@@ -8,7 +8,7 @@
         "title": "Wise4Web",
         "tagline": "Using the Web Wisely",
         "profile_img": "/images/logo_transparent.png",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
