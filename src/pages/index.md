@@ -8,7 +8,7 @@ sections:
     content: >-
       Hi. I am Bob and this is my new blog, Wise4Web. I plan to write about
       using a variety of web technologies, mangeing information, note-taking
-      systems, and contentent management systems.
+      systems, and contentent management systems, like WordPress.
   - type: section_content
     title: About
     section_id: about
