@@ -7,7 +7,7 @@
         "type": "header",
         "title": "Wise4Web",
         "tagline": "Using the Web Wisely",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/logo_transparent.png",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
