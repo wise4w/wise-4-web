@@ -95,7 +95,7 @@
                 "label": "",
                 "url": "",
                 "style": "link",
-                "new_window": false
+                "new_window": true
             },
             {
                 "label": "lorem-ipsum",
