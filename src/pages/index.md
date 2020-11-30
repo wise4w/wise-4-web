@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: false
+hide_title: true
 sections:
   - type: section_hero
     title: 'Hi, I''m Stackbit Fresh.'
