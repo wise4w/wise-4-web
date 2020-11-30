@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: Wise4
+    title: Wise4Web
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
